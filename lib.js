@@ -2,6 +2,8 @@
   TODO: Implement empty function bodies according to their requirements
 */
 
+'use strict'
+
 function createGrowthModel (lengthToWingspan, leavesEatenToWeight) {
   return {
     lengthToWingspan,
