@@ -1,0 +1,22 @@
+{
+  "name": "ftd-day-6-javascript-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-eslint": "^6.0.4",
+    "jsverify": "^0.7.1",
+    "mocha": "^2.5.3",
+    "standard": "^7.1.2"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  }
+}
